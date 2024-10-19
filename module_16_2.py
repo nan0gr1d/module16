@@ -1,7 +1,7 @@
 #  module_16_2
 
 from fastapi import FastAPI, Path
-from typing import Annotated\
+from typing import Annotated
 
 
 app = FastAPI()
